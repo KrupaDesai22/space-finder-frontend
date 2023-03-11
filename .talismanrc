@@ -9,3 +9,7 @@ fileignoreconfig:
   checksum: f0045b3f8905880e17671222a920193a34a64f59b0d5fe52d8829b8da70e50dd
 - filename: package-lock.json
   checksum: d363f11069513201970f8f287fa700ded0c1a37ab05661219cf287032a1deeac
+- filename: src/services/AuthService.ts
+  checksum: 4280e3bf73406df7db5e66aa4f4309a0d429161e8ee945a5102fe2ba45d77b19
+- filename: src/components/Login.tsx
+  checksum: 08d10a802b42c3cfc33a743438841f362d9d12b20526b12085aef63455332dd7
